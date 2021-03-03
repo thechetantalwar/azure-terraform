@@ -4,6 +4,7 @@
 
 #### git clone https://github.com/thechetantalwar/azure-terraform
 #### cd azure-terraform
+#### mv storage.tf main.tf
 #### terraform init
 
 ### Get your Azure Terraform authorized with Service Principal
